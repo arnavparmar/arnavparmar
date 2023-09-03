@@ -30,17 +30,17 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saty-a&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnavparmar&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saty-a&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saty-a&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arnavparmar&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arnavparmar&theme=vue" />
 </p>
 
 ## ✍️Top Lang Used
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saty-a&show_icons=true&locale=en&layout=compact" alt="saty-a" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnavparmar&show_icons=true&locale=en&layout=compact" alt="arnavparmar" /></p>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
